@@ -1,0 +1,16 @@
+{
+    "date": "15th jan",
+    "time": "10 PM to 12PM",
+    "time_control": "10 minutes for each game",
+    "platform": "https:\/\/lichess.org",
+    "prizes": [
+        "\ud83e\udd47 1st Place \u2013 \u20b9400\r",
+        "\ud83e\udd48 2nd Place \u2013 \u20b9250\r",
+        "\ud83e\udd49 3rd Place \u2013 \u20b9100\r",
+        "\ud83c\udfc5 4th Place \u2013 \u20b950\r",
+        "\ud83c\udfc5 5th Place \u2013 \u20b91\r",
+        "\ud83c\udfc5 6th Place \u2013 \u20b91\r",
+        "\ud83c\udfc5 7th Place \u2013 \u20b9"
+    ],
+    "entry_fee": "\u20b950 ONLY"
+}
